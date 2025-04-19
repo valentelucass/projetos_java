@@ -20,6 +20,6 @@ public class CincoNotasVetor {
         double media = soma / 3; // Calculando a média corretamente
         System.out.println("Média é: " + media);
 
-        entrada.close(); // Corrigido ":" para ";"
+        entrada.close();
     }
 }
